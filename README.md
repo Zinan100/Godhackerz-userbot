@@ -16,7 +16,7 @@
 <a href="https://www.youtube.com/watch?v=KMeJ2cGvlqc&feature=youtu.be"><img src="https://img.shields.io/badge/Youtube-How%20To%20Deploy%20-blue"></a>
 
 ### Host YOUR DREAM USERBOT  In Heroku
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/rohithaditya/Godhackerz-userbot/tree/main)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Zinan100/Godhackerz-userbot)
 
 ## For Your STRING SESSION 
 [![Run on Repl.it](https://repl.it/badge/github/rohithaditya/Godhackerz-userbot)](https://repl.it/@rohithaditya/GODHACKERZUSERBOTSREPL#main.py)
